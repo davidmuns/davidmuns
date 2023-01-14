@@ -58,20 +58,21 @@
         <li>Git and Github</li>
        </ul>
         <p><a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy</a></p>
-       <h3>Java Backend Developer</h3>
+       <h3>Bootcamp Backend Developer</h3>
          <ul>
-        <li>Java</li>
-        <li>Spring Boot</li>
-        <li>Jwt Spring Security</li>
-        <li>MySQL and MongoDB</li>
-        <li>JPA</li>
-        <li>JUnit and Mockito</li>
-        <li>Design Patterns</li>
-        <li>Postman</li>
-        <li>Git and Github</li>
-       </ul>
-     
-       <p>Blogex is a web App (still under construction) that allows you to create a personal blog in order to publish articles related to places around the world you have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.</p>
-       <p>The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD operations, Create, Read, Update and Delete articles.</p>
+            <li>Java</li>
+            <li>Spring Boot</li>
+            <li>Jwt Spring Security</li>
+            <li>MySQL and MongoDB</li>
+            <li>JPA</li>
+            <li>JUnit and Mockito</li>
+            <li>Design Patterns</li>
+            <li>Postman</li>
+            <li>Git and Github</li>
+         </ul>
+         <h1>Projects</h1>
+        <h3>Blogex App</h3>
+        <p>Blogex is a web App (still under construction) that allows you to create a personal blog in order to publish articles related to places around the world you         have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.</p>
+       <p>The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD               operations, Create, Read, Update and Delete articles.</p>
 </body>
 </html>
