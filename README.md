@@ -70,6 +70,16 @@
             <li>Postman</li>
             <li>Git and Github</li>
          </ul>
+         <h3>Technical degree in Industrial Automation and Robotics</h3>
+            <ul>
+                <li>Siemens Tia Portal</li>
+                <li>Omron Sysmac Studio</li>
+                <li>EPLAN electrical schemes</li>
+                <li>Siemens HMI Simatic</li>
+                <li>Siemens SCADA WinCC</li>
+                <li>ABB Robot Studio</li>
+                <li>Arduino</li>
+             </ul>
          <h1>Projects</h1>
         <h3>Blogex App</h3>
         <p>Blogex is a web App (still under construction) that allows you to create a personal blog in order to publish articles related to places around the world you         have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.</p>
