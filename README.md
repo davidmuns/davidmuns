@@ -91,7 +91,6 @@
         <h3>Starwars App</h3>
         <p>Star wars is a web application made with Angular and Spring Boot frameworks</p>
         <p>Go to =><a href="https://davidmuns-starwars.netlify.app/">starwars website</a></p>
-        <h3>Blogex App</h3>
          <h3>Automation of Industrial Machinery</h3>
             <p>Go to =><a href="https://youtu.be/aN-tgeyTOM8">Project in my youtube chanel</a></p>
         <p>Siemens Tia Portal, HMI Siemens Simatic and EPLAN Electric Schemes</p>
