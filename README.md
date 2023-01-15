@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div>
+    <div align="center">
+        <img src="https://gowithcode.com/wp-content/uploads/2021/04/top-programming-languages.jpg" alt="">
+    </div>
         <h1>About</h1>
         <h3>My goal</h3>
         <p>
