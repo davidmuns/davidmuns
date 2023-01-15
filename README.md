@@ -72,6 +72,7 @@
             <li>Angular</li>
             <li>Typescrypt</li>
             <li>javascript</li>
+            <li>Unit tests with Jest and Jasmine</li>
             <li>Git and Github</li>
        </ul>
         <h3>Backend:</h3>
@@ -81,7 +82,7 @@
             <li>Jwt Spring Security</li>
             <li>MySQL and MongoDB</li>
             <li>JPA</li>
-            <li>JUnit and Mockito</li>
+            <li>Unit tests with JUnit and Mockito</li>
             <li>Design Patterns</li>
             <li>Postman</li>
             <li>Git and Github</li>
