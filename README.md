@@ -8,7 +8,7 @@
 <body>
     <div>
         <h1>About</h1>
-        <h3>MY GOAL</h3>
+        <h3>My goal</h3>
         <p>
             My experiences as an industrial automation technician and PLC programmer 
             have taught me to make decisions in very aggressive environments and under a lot of pressure. 
@@ -18,11 +18,11 @@
             team of programmers, both server and client-side, where I can contribute with my knowledge and, 
             at the same time, continue to grow and learn with my colleagues.
         </p>
-        <h3>HOW I CAN HELP</h3>
+        <h3>How can I help</h3>
         <p>
             By putting my professional experience, skills and knowledge at the service of the company in order to improve the relationship with its customers, its competitiveness and, ultimately, its bottom line. Whoever decides to hire me will have the certainty that they can count on someone who has been "trained" with the exact skills necessary to work as a team, who is passionate about what he does and who is committed to the company's goals.
         </p>
-        <h3>MY SKILLS</h3>
+        <h3>My softskills</h3>
        <ul>
         <li>
             Learning ability. I have the ability to learn new knowledge and the ability to constantly progress, listening and interacting with others. You're never too old to keep learning.
@@ -83,7 +83,7 @@
                 <li>Arduino</li>
              </ul>
          <h1>Projects</h1>
-        <h3>Blogex App</h3>
+        <h3><ins>Blogex App</ins></h3>
         <p>Blogex is a web App (still under construction) that allows you to create a personal blog in order to publish articles related to places around the world you         have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.</p>
        <p>The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD               operations, Create, Read, Update and Delete articles.</p>
          <h4>Technologies:</h4>
@@ -104,7 +104,7 @@
             <li>JUnit and Mockito</li>
         </ul>
         <p>Go to =><a href="https://blogex.netlify.app/home">blogex website</a></p>
-        <h3>Starwars App</h3>
+        <h3><ins>Starwars App</ins></h3>
          <h4>Technologies:</h4>
          <h5>Frontend</h5>
          <ul>
@@ -123,7 +123,7 @@
             <li>JUnit and Mockito</li>
         </ul>
         <p>Go to =><a href="https://davidmuns-starwars.netlify.app/">starwars website</a></p>
-         <h3>Automation of Industrial Machinery</h3>
+        <h3><ins>Automation of Industrial Machinery</ins></h3>
         <h4>Technologies:</h4>
          <ul>
             <li>Siemens Tia Portal</li>
