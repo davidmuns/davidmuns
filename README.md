@@ -125,21 +125,29 @@
           </div><br>
         <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p>
         <h2><ins>Starwars App</ins></h2>
-         <div align="left">
-          <div>
-            <h3>Used technologies:</h3>
-            <h4>Frontend:</h4>
+         <h3>Used technologies:</h3>
+          <div align="left">
+           <div>      
+             <ul>
+              <li>
+                <h4>Frontend:</h4>
+              </li>
+             </ul>
                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css-logo" width="40" height="40">&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap-logo" width="40" height="40">&nbsp;
               <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
-            <h5>Backend:</h5>
+             <ul>
+              <li>
+                <h4>Backend:</h4>
+              </li>
+             </ul>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring-logo" width="40" height="40">&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
           </div>
-        </div>
+        </div><br>
         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p>
         <h3><ins>Automation of Industrial Machinery</ins></h3>
         <h4>Technologies:</h4>
