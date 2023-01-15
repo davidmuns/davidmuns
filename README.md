@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <img src="https://gowithcode.com/wp-content/uploads/2021/04/top-programming-languages.jpg" alt="">
+        <img src="https://miro.medium.com/max/1200/0*4HNmbdP1wyHCp-HV.png" alt="">
     </div>
         <h1>About</h1>
         <h3>My goal</h3>
