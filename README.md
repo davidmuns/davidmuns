@@ -99,10 +99,9 @@
            The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD               operations, Create, Read, Update and Delete articles.
         </p>
          <h4>Used technologies:</h4>
-<!--             <div align="left">
+            <div align="left">
             <div>
-                <h4>Tools and languages:</h4>
-                <h5>Frontend</h5>
+                <h5>Frontend:</h5>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css-logo" width="40" height="40">&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass-logo" width="40" height="40">&nbsp;
@@ -121,7 +120,7 @@
                 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb-logo" width="40" height="40">&nbsp;
             </div>
-        </div> -->
+        </div>
 <!--          <h5>Frontend</h5>
          <ul>
             <li>Typescript</li>
