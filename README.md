@@ -43,7 +43,7 @@
          <h1>Experience</h1>
         <p>Go to =><a href="https://linkedin.com/in/davidgmuns">My LinkedIn profile</a></p>
        <h1>Education</h1>
-       <h3>[2022] +500 hours Frontend Developer Bootcamp</h3>
+       <h3>[2022] Frontend Developer Bootcamp | +500 hours</h3>
         <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy</a></p>
        <ul>
         <li>HTML5</li>
@@ -57,7 +57,7 @@
         <li>Node.js</li>
         <li>Git and Github</li>
        </ul>
-       <h3>>[2021] +500 hours Backend Developer Bootcamp</h3>
+       <h3>>[2021] Backend Developer Bootcamp | +500 hours</h3>
         <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy</a></p>
          <ul>
             <li>Java</li>
@@ -70,7 +70,7 @@
             <li>Postman</li>
             <li>Git and Github</li>
          </ul>
-         <h3>[2016-2018] +2000 hours Technical degree in Industrial Automation and Robotics</h3>
+         <h3>[2016-2018] Technical degree in Industrial Automation and Robotics | +2000 hours</h3>
             <p>Go to =><a href="https://www.cimupc.org/es/">CIM UPC</a></p>
             <ul>
                 <li>Siemens Tia Portal</li>
