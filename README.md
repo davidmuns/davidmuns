@@ -103,6 +103,7 @@
          <ul>
             <li>Java</li>
             <li>Spring Boot</li>
+            <li>Spring MVC</li>
             <li>Jwt Spring security</li>
             <li>MySQL</li>
             <li>JUnit and Mockito</li>
@@ -122,6 +123,7 @@
          <ul>
             <li>Java</li>
             <li>Spring Boot</li>
+            <li>Spring MVC</li>
             <li>Jwt Spring security</li>
             <li>MySQL</li>
             <li>JUnit and Mockito</li>
