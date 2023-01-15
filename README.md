@@ -43,11 +43,11 @@
         </li>
        </ul>
          <h1>Experience</h1>
-        <p>Go to =><a href="https://drive.google.com/file/d/1cAwCxpplzY8AAlQOiPVbinirFeMRhlyZ/view?usp=sharing">&nbsp;Download cv</a></p>
-        <p>Go to =><a href="https://linkedin.com/in/davidgmuns">&nbsp;My LinkedIn profile</a></p>
+        <p>goto =><a href="https://drive.google.com/file/d/1cAwCxpplzY8AAlQOiPVbinirFeMRhlyZ/view?usp=sharing">&nbsp;Download cv</a></p>
+        <p>goto =><a href="https://linkedin.com/in/davidgmuns">&nbsp;My LinkedIn profile</a></p>
        <h1>Education</h1>
        <h3>[2021 - 2022] Front and Backend Developer Bootcamp | +800 hours</h3>
-        <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
+        <p>goto =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
         <h4>Technologies:</h4>
          <h5>Frontend</h5>
        <ul>
@@ -75,7 +75,7 @@
             <li>Git and Github</li>
          </ul>
          <h3>[2016-2018] Technical degree in Industrial Automation and Robotics | +2000 hours</h3>
-            <p>Go to =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p>
+            <p>goto =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p>
             <ul>
                 <li>Siemens Tia Portal</li>
                 <li>Omron Sysmac Studio</li>
@@ -107,7 +107,7 @@
             <li>MySQL</li>
             <li>JUnit and Mockito</li>
         </ul>
-        <p>Go to =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p>
+        <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p>
         <h3><ins>Starwars App</ins></h3>
          <h4>Technologies:</h4>
          <h5>Frontend</h5>
@@ -126,7 +126,7 @@
             <li>MySQL</li>
             <li>JUnit and Mockito</li>
         </ul>
-        <p>Go to =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p>
+        <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p>
         <h3><ins>Automation of Industrial Machinery</ins></h3>
         <h4>Technologies:</h4>
          <ul>
@@ -134,6 +134,6 @@
             <li>EPLAN electrical schemes</li>
             <li>Siemens HMI Simatic</li>
          </ul>
-        <p>Go to =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube channel</a></p>
+        <p>goto =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube channel</a></p>
 </body>
 </html>
