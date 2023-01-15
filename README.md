@@ -12,7 +12,7 @@
         <h1>About</h1>
         <h3>My goal</h3>
         <p>
-            My experiences as an industrial automation technician and PLC programmer 
+            My experience as an industrial automation technician and PLC programmer 
             have taught me to make decisions in very aggressive environments and under a lot of pressure. 
             I also know the business world and customer relationships as well as the pressure to 
             achieve sales goals and the satisfaction of achieving them. I like challenges and 
