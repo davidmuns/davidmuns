@@ -86,13 +86,50 @@
         <h3>Blogex App</h3>
         <p>Blogex is a web App (still under construction) that allows you to create a personal blog in order to publish articles related to places around the world you         have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.</p>
        <p>The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD               operations, Create, Read, Update and Delete articles.</p>
-        <p>Angular, typescript, angular material, Sass, Spring Boot, java, Jwt Spring Security and MySQL</p>
+         <h4>Technologies:</h4>
+         <h5>Frontend</h5>
+         <ul>
+            <li>Typescript</li>
+            <li>Angular</li>
+            <li>Angular Material</li>
+            <li>Sass</li>
+            <li>Jest</li>
+        </ul>
+         <h5>Backend</h5>
+         <ul>
+            <li>Java</li>
+            <li>Spring Boot</li>
+            <li>Jwt Spring security</li>
+            <li>MySQL</li>
+            <li>JUnit and Mockito</li>
+        </ul>
         <p>Go to =><a href="https://blogex.netlify.app/home">blogex website</a></p>
         <h3>Starwars App</h3>
-        <p>Star wars is a web application made with Angular and Spring Boot frameworks</p>
+         <h4>Technologies:</h4>
+         <h5>Frontend</h5>
+         <ul>
+            <li>Typescript</li>
+            <li>Angular</li>
+            <li>Bootstrap</li>
+            <li>CSS</li>
+            <li>Jasmin</li>
+        </ul>
+         <h5>Backend</h5>
+         <ul>
+            <li>Java</li>
+            <li>Spring Boot</li>
+            <li>Jwt Spring security</li>
+            <li>MySQL</li>
+            <li>JUnit and Mockito</li>
+        </ul>
         <p>Go to =><a href="https://davidmuns-starwars.netlify.app/">starwars website</a></p>
          <h3>Automation of Industrial Machinery</h3>
-            <p>Go to =><a href="https://youtu.be/aN-tgeyTOM8">See project in my youtube chanel</a></p>
-        <p>Siemens Tia Portal, HMI Siemens Simatic and EPLAN Electric Schemes</p>
+        <h4>Technologies:</h4>
+         <ul>
+            <li>Siemens Tia Portal</li>
+            <li>EPLAN electrical schemes</li>
+            <li>Siemens HMI Simatic</li>
+         </ul>
+        <p>Go to =><a href="https://youtu.be/aN-tgeyTOM8">See project in my youtube chanel</a></p>
 </body>
 </html>
