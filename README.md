@@ -46,8 +46,10 @@
         <p>Go to =><a href="https://drive.google.com/file/d/1cAwCxpplzY8AAlQOiPVbinirFeMRhlyZ/view?usp=sharing">&nbsp;Download cv</a></p>
         <p>Go to =><a href="https://linkedin.com/in/davidgmuns">&nbsp;My LinkedIn profile</a></p>
        <h1>Education</h1>
-       <h3>[2022] Frontend Developer Bootcamp | +400 hours</h3>
+       <h3>[2021 - 2022] Front and Backend Developer Bootcamp | +800 hours</h3>
         <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
+        <h4>Technologies:</h4>
+         <h5>Frontend</h5>
        <ul>
         <li>HTML5</li>
         <li>CSS</li>
@@ -60,8 +62,7 @@
         <li>Node.js</li>
         <li>Git and Github</li>
        </ul>
-       <h3>[2021] Backend Developer Bootcamp | +400 hours</h3>
-        <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
+        <h5>Backend</h5>
          <ul>
             <li>Java</li>
             <li>Spring Boot</li>
