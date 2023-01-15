@@ -57,7 +57,7 @@
         <li>Node.js</li>
         <li>Git and Github</li>
        </ul>
-       <h3>>[2021] Backend Developer Bootcamp | +500 hours</h3>
+       <h3>[2021] Backend Developer Bootcamp | +500 hours</h3>
         <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy</a></p>
          <ul>
             <li>Java</li>
