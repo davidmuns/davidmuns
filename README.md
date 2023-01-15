@@ -8,7 +8,7 @@
 <body>
     <div>
         <h1>About</h1>
-        <h3>MY GOAL</h3>
+        <h3>MY GOAL</h3>https://www.cimupc.org/es/
         <p>
             My experiences as an industrial automation technician and PLC programmer 
             have taught me to make decisions in very aggressive environments and under a lot of pressure. 
@@ -71,6 +71,7 @@
             <li>Git and Github</li>
          </ul>
          <h3>Technical degree in Industrial Automation and Robotics</h3>
+            <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">CIM UPC</a></p>
             <ul>
                 <li>Siemens Tia Portal</li>
                 <li>Omron Sysmac Studio</li>
@@ -78,6 +79,7 @@
                 <li>Siemens HMI Simatic</li>
                 <li>Siemens SCADA WinCC</li>
                 <li>ABB Robot Studio</li>
+                <li>Industrial comunications: Profinet, Profibus and Modbus TCP</li>
                 <li>Arduino</li>
              </ul>
          <h1>Projects</h1>
