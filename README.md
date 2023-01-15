@@ -9,6 +9,9 @@
     <div align="center">
         <a href="https://blogex.netlify.app/home"><img src="https://res.cloudinary.com/dwfwp0eyg/image/upload/v1673785148/angular_spring-boot_blogex_vvyhiy.png" alt=""></a>
     </div>
+<!-- ############################## -->
+<!-- ABOUT -->
+<!-- ############################## -->
     <h1>About</h1>
     <h3>My goal</h3>
         <p>
@@ -42,16 +45,21 @@
             Response-Ability and perseverance. I respond "handily" to adverse circumstances. 90% of my achievements are based on persevering.
         </li>
        </ul>
-    
-  <h1>Experience</h1>
+<!-- ############################## -->
+<!-- EXPERIENCE -->
+<!-- ############################## -->
+    <h1>Experience</h1>
     <div align="left">
         <div>
           <a href="https://linkedin.com/in/davidgmuns">&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"       title="linkedin" alt="linkedin-logo" width="40" height="40"</a>&nbsp;
           <a href="https://drive.google.com/file/d/1cAwCxpplzY8AAlQOiPVbinirFeMRhlyZ/view?usp=sharing">&nbsp;Download cv</a>    
          </div>
-        </div>
-        
+     </div>
+<!-- ############################## -->
+<!-- EDUCATION -->
+<!-- ############################## -->
   <h1>Education</h1>
+    <!--BOOTCAMP -->
     <h2>[2021 - 2022] Front and Backend Developer Bootcamp | +800 hours</h2>
         <p>goto =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
         <h3>Frontend:</h3>
@@ -78,6 +86,7 @@
             <li>Postman</li>
             <li>Git and Github</li>
          </ul>
+    <!--DEGREE-->    
     <h2>[2016-2018] Technical degree in Industrial Automation and Robotics | +2000 hours</h2>
        <p>goto =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p>
         <ul>
@@ -90,41 +99,45 @@
             <li>Industrial comunications: Profinet, Profibus and Modbus TCP</li>
             <li>Arduino</li>
          </ul>
-        
+<!-- ############################## -->
+<!-- PROJECTS -->
+<!-- ############################## -->
   <h1>Projects</h1>
    <h2><ins>Blogex App</ins></h2>
-        <p>
-            Blogex is a web application that allows you to create a personal blog in order to publish articles related to places around the world you have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.
-        </p>
-       <p>
-           The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD               operations, Create, Read, Update and Delete articles.
-        </p>
-         <h3>Used technologies:</h3>
+<!-- BLOGEX -->
+    <p>
+        Blogex is a web application that allows you to create a personal blog in order to publish articles related to places around the world you have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.
+    </p>
+    <p>
+        The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD               operations, Create, Read, Update and Delete articles.
+    </p>
+        <h3>Used technologies:</h3>
             <div align="left">
-             <div>
-                 <ul>
-                  <li>
-                   <h4>Frontend:</h4>
-                  </li>
-                 </ul>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;              
-                <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest-logo" width="40" height="40">&nbsp;
-                <ul>
-                  <li>
-                   <h4>Backend:</h4>
-                  </li>
-                 </ul>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
+                <div>
+                     <ul>
+                      <li>
+                       <h4>Frontend:</h4>
+                      </li>
+                     </ul>
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;              
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest-logo" width="40" height="40">&nbsp;
+                    <ul>
+                      <li>
+                       <h4>Backend:</h4>
+                      </li>
+                     </ul>
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
             </div>
           </div><br>
         <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p>
+<!--STARWARS-->
         <h2><ins>Starwars App</ins></h2>
          <h3>Used technologies:</h3>
           <div align="left">
@@ -150,6 +163,7 @@
           </div>
         </div><br>
         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p>
+        <!--AUTOMATION -->
         <h2><ins>Automation of Industrial Machinery</ins></h2>
         <h3>Used technologies:</h3>
          <ul>
