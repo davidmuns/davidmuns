@@ -41,11 +41,11 @@
         </li>
        </ul>
          <h1>Experience</h1>
-        <p>Go to =><a href="https://drive.google.com/file/d/1cAwCxpplzY8AAlQOiPVbinirFeMRhlyZ/view?usp=sharing">download cv</a></p>
-        <p>Go to =><a href="https://linkedin.com/in/davidgmuns">My LinkedIn profile</a></p>
+        <p>Go to =><a href="https://drive.google.com/file/d/1cAwCxpplzY8AAlQOiPVbinirFeMRhlyZ/view?usp=sharing">&nbsp;Download cv</a></p>
+        <p>Go to =><a href="https://linkedin.com/in/davidgmuns">&nbsp;My LinkedIn profile</a></p>
        <h1>Education</h1>
        <h3>[2022] Frontend Developer Bootcamp | +400 hours</h3>
-        <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy</a></p>
+        <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
        <ul>
         <li>HTML5</li>
         <li>CSS</li>
@@ -59,7 +59,7 @@
         <li>Git and Github</li>
        </ul>
        <h3>[2021] Backend Developer Bootcamp | +400 hours</h3>
-        <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy</a></p>
+        <p>Go to =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
          <ul>
             <li>Java</li>
             <li>Spring Boot</li>
@@ -72,7 +72,7 @@
             <li>Git and Github</li>
          </ul>
          <h3>[2016-2018] Technical degree in Industrial Automation and Robotics | +2000 hours</h3>
-            <p>Go to =><a href="https://www.cimupc.org/es/">CIM UPC</a></p>
+            <p>Go to =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p>
             <ul>
                 <li>Siemens Tia Portal</li>
                 <li>Omron Sysmac Studio</li>
@@ -104,7 +104,7 @@
             <li>MySQL</li>
             <li>JUnit and Mockito</li>
         </ul>
-        <p>Go to =><a href="https://blogex.netlify.app/home">blogex website</a></p>
+        <p>Go to =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p>
         <h3><ins>Starwars App</ins></h3>
          <h4>Technologies:</h4>
          <h5>Frontend</h5>
@@ -123,7 +123,7 @@
             <li>MySQL</li>
             <li>JUnit and Mockito</li>
         </ul>
-        <p>Go to =><a href="https://davidmuns-starwars.netlify.app/">starwars website</a></p>
+        <p>Go to =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p>
         <h3><ins>Automation of Industrial Machinery</ins></h3>
         <h4>Technologies:</h4>
          <ul>
@@ -131,6 +131,6 @@
             <li>EPLAN electrical schemes</li>
             <li>Siemens HMI Simatic</li>
          </ul>
-        <p>Go to =><a href="https://youtu.be/aN-tgeyTOM8">See project in my youtube chanel</a></p>
+        <p>Go to =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube chanel</a></p>
 </body>
 </html>
