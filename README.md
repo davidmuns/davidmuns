@@ -131,6 +131,6 @@
             <li>EPLAN electrical schemes</li>
             <li>Siemens HMI Simatic</li>
          </ul>
-        <p>Go to =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube chanel</a></p>
+        <p>Go to =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube channel</a></p>
 </body>
 </html>
