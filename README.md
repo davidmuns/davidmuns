@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <img src="https://miro.medium.com/max/1200/0*4HNmbdP1wyHCp-HV.png" alt="">
+        <img src="https://res.cloudinary.com/dwfwp0eyg/image/upload/v1673785148/angular_spring-boot_blogex_vvyhiy.png" alt="">
     </div>
         <h1>About</h1>
         <h3>My goal</h3>
