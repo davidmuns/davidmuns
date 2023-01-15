@@ -48,9 +48,30 @@
        <h1>Education</h1>
        <h3>[2021 - 2022] Front and Backend Developer Bootcamp | +800 hours</h3>
         <p>goto =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
-        <h4>Technologies:</h4>
-         <h5>Frontend</h5>
-       <ul>
+        <div align="left">
+            <div>
+                <h4>Tools and languages:</h4>
+                <h5>Frontend</h5>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;              
+                <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" title="jasmine" alt="jasmine-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github-logo" width="40" height="40">&nbsp;
+                <h5>Backend</h5>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb-logo" width="40" height="40">&nbsp;
+            </div>
+        </div>
+<!--        <ul>
         <li>HTML5</li>
         <li>CSS</li>
         <li>Bootstrap</li>
@@ -59,10 +80,9 @@
         <li>Angular</li>
         <li>Typescrypt</li>
         <li>javascript</li>
-        <li>Node.js</li>
         <li>Git and Github</li>
-       </ul>
-        <h5>Backend</h5>
+       </ul> -->
+<!--         <h5>Backend</h5>
          <ul>
             <li>Java</li>
             <li>Spring Boot</li>
@@ -73,7 +93,7 @@
             <li>Design Patterns</li>
             <li>Postman</li>
             <li>Git and Github</li>
-         </ul>
+         </ul> -->
          <h3>[2016-2018] Technical degree in Industrial Automation and Robotics | +2000 hours</h3>
             <p>goto =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p>
             <ul>
@@ -137,5 +157,6 @@
             <li>Siemens HMI Simatic</li>
          </ul>
         <p>goto =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube channel</a></p>
+    </div>
 </body>
 </html>
