@@ -53,7 +53,8 @@
         
   <h1>Education</h1>
     <h3>[2021 - 2022] Front and Backend Developer Bootcamp | +800 hours</h3>
-        <p>goto =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p> 
+        <p>goto =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
+        <h4>Frontend:</h4>
         <ul>
             <li>HTML5</li>
             <li>CSS</li>
@@ -65,7 +66,7 @@
             <li>javascript</li>
             <li>Git and Github</li>
        </ul>
-        <h5>Backend</h5>
+        <h4>Backend:</h4>
          <ul>
             <li>Java</li>
             <li>Spring Boot</li>
