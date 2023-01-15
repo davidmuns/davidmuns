@@ -66,7 +66,7 @@
             <li>javascript</li>
             <li>Git and Github</li>
        </ul>
-        <h4>Backend:</h4>
+        <h3>Backend:</h3>
          <ul>
             <li>Java</li>
             <li>Spring Boot</li>
@@ -90,6 +90,7 @@
             <li>Industrial comunications: Profinet, Profibus and Modbus TCP</li>
             <li>Arduino</li>
          </ul>
+        
   <h1>Projects</h1>
    <h2><ins>Blogex App</ins></h2>
         <p>
@@ -149,8 +150,8 @@
           </div>
         </div><br>
         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p>
-        <h3><ins>Automation of Industrial Machinery</ins></h3>
-        <h4>Technologies:</h4>
+        <h2><ins>Automation of Industrial Machinery</ins></h2>
+        <h3>Used technologies:</h3>
          <ul>
             <li>Siemens Tia Portal</li>
             <li>EPLAN electrical schemes</li>
