@@ -122,7 +122,7 @@
                      </ul>
                     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass-logo" width="40" height="40">&nbsp;
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/davidmuns/assets/blob/main/unnamed-removebg-preview.png" title="angular-material" alt="angular-material-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;              
                     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript-logo" width="40" height="40">&nbsp;
@@ -133,8 +133,8 @@
                       </li>
                      </ul>
                     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring-logo" width="40" height="40">&nbsp;
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="70" height="70">&nbsp;
             </div>
           </div><br>
         <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p>
@@ -159,8 +159,8 @@
               </li>
              </ul>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring-logo" width="40" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="70" height="70">&nbsp;
           </div>
         </div><br>
         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p>
