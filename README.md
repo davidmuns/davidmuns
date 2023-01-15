@@ -41,6 +41,7 @@
         </li>
        </ul>
          <h1>Experience</h1>
+        <p>Go to =><a href="https://drive.google.com/file/d/1cAwCxpplzY8AAlQOiPVbinirFeMRhlyZ/view?usp=sharing">download cv</a></p>
         <p>Go to =><a href="https://linkedin.com/in/davidgmuns">My LinkedIn profile</a></p>
        <h1>Education</h1>
        <h3>[2022] Frontend Developer Bootcamp | +500 hours</h3>
