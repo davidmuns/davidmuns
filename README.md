@@ -20,7 +20,7 @@
         </p>
         <h3>HOW I CAN HELP</h3>
         <p>
-            By putting my professional experience, skills and knowledge at the service of the company in order to improve the relationship with its customers, its competitiveness and, ultimately, its bottom line. Whoever decides to hire me will have the certainty that they can count on someone who has been "trained" with the exact skills necessary to work as a team, who is passionate about what they do and who is committed to the company's goals.
+            By putting my professional experience, skills and knowledge at the service of the company in order to improve the relationship with its customers, its competitiveness and, ultimately, its bottom line. Whoever decides to hire me will have the certainty that they can count on someone who has been "trained" with the exact skills necessary to work as a team, who is passionate about what he does and who is committed to the company's goals.
         </p>
         <h3>MY SKILLS</h3>
        <ul>
