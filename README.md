@@ -15,7 +15,7 @@
             I also know the business world and customer relationships as well as the pressure to 
             achieve sales goals and the satisfaction of achieving them. I like challenges and 
             changes and I am used to them. Currently, I am looking to be part of a multidisciplinary 
-            team of programmers, both server and client-side, where I can contribute my knowledge and, 
+            team of programmers, both server and client-side, where I can contribute with my knowledge and, 
             at the same time, continue to grow and learn with my colleagues.
         </p>
         <h3>HOW I CAN HELP</h3>
