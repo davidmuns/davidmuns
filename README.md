@@ -129,6 +129,7 @@
                        <h4>Frontend:</h4>
                       </li>
                      </ul>
+                    <img src="https://github.com/davidmuns/assets/blob/main/vec-removebg-preview.png" title="VE" alt="VE-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/davidmuns/assets/blob/main/unnamed-removebg-preview.png" title="angular-material" alt="angular-material-logo" width="40" height="40">&nbsp;
@@ -142,9 +143,13 @@
                        <h4>Backend:</h4>
                       </li>
                      </ul>
+                    <img src="https://github.com/davidmuns/assets/blob/main/IntelliJ-icon.png" title="intellij" alt="intellij-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/davidmuns/assets/blob/main/postan.png" title="postman" alt="postman-logo" width="40" height="40">&nbsp;
+                     <img src="https://github.com/davidmuns/assets/blob/main/jUnit-logo-removebg-preview.png" title="JUnit" alt="JUnit-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/davidmuns/assets/blob/main/mockito-mix.png" title="Mockito" alt="mockito-logo" width="60" height="40">&nbsp;
             </div>
           </div>
 <!--         <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p> -->
@@ -161,6 +166,7 @@
                 <h4>Frontend:</h4>
               </li>
              </ul>
+               <img src="https://github.com/davidmuns/assets/blob/main/vec-removebg-preview.png" title="VE" alt="VE-logo" width="40" height="40">&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css-logo" width="40" height="40">&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap-logo" width="40" height="40">&nbsp;
@@ -172,9 +178,13 @@
                 <h4>Backend:</h4>
               </li>
              </ul>
+                 <img src="https://github.com/davidmuns/assets/blob/main/IntelliJ-icon.png" title="intellij" alt="intellij-logo" width="40" height="40">&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
                 <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/davidmuns/assets/blob/main/postan.png" title="postman" alt="postman-logo" width="40" height="40">&nbsp;
+               <img src="https://github.com/davidmuns/assets/blob/main/jUnit-logo-removebg-preview.png" title="JUnit" alt="JUnit-logo" width="40" height="40">&nbsp;
+                <img src="https://github.com/davidmuns/assets/blob/main/mockito-mix.png" title="Mockito" alt="mockito-logo" width="60" height="40">&nbsp;
           </div>
         </div>
 <!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->
