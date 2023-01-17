@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://res.cloudinary.com/dwfwp0eyg/image/upload/v1673785148/angular_spring-boot_blogex_vvyhiy.png" alt="header" title="blogex-website"></a>
+        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/header.jpg" alt="header" title="blogex-website"></a>
     </div>
 <!-- ############################## -->
 <!-- ABOUT -->
@@ -150,7 +150,7 @@
         <!--STARWARS-->
         <h2>Starwars App</h2>
           <div align="left">
-            <a href="https://davidmuns-starwars.netlify.app/" target="_blank"><img src="https://j.gifs.com/KYpAln.gif" alt="header" title="starwars-website" height="240"></a>
+            <a href="https://davidmuns-starwars.netlify.app/" target="_blank"><img src="https://j.gifs.com/KYpAln.gif" alt="header" title="starwars-website" height="200"</a>
           </div>
          <h3>Used technologies:</h3>
           <div align="left">
