@@ -171,7 +171,10 @@
         </div><br>
 <!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->
         <!--AUTOMATION -->
-        <h2><ins>Automation of Industrial Machinery</ins></h2>
+        <h2><ins>Automation of Diosna industrial machine</ins></h2>
+           <div align="left">
+        <a href="https://youtu.be/aN-tgeyTOM8" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/f2m_Diosna_linear_transport_system_automation.jpg" alt="diosna" title="youtube-channel" height="240"></a>
+    </div>
         <h3>Used technologies:</h3>
          <ul>
             <li>Siemens Tia Portal</li>
