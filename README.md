@@ -93,7 +93,7 @@
     <!--DEGREE-->    
     <h2>[2016-2018] Technical degree in Industrial Automation and Robotics | +2000 hours</h2>
           <div align="left">
-            <a href="https://www.cimupc.org/es/" target="_blank"><img src="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1537218720/content-items/002/518/508/Comp_2-original.gif?1537218720" alt="cim-guft" title="cim-website" height="100"></a>
+            <a href="https://www.cimupc.org/en/formation/occupational-training-courses/industrial-automation-systems-project-development-cop-level-3/" target="_blank"><img src="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1537218720/content-items/002/518/508/Comp_2-original.gif?1537218720" alt="cim-guft" title="cim-website" height="100"></a>
          </div>
 <!--        <p>goto =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p> -->
         <ul>
