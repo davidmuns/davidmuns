@@ -97,13 +97,13 @@
          </div>
 <!--        <p>goto =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p> -->
         <ul>
-            <li>Siemens Tia Portal PLC programming</li>
+            <li>Siemens Tia Portal PLC programming&nbsp;<a href="">more about</a></li>
             <li>Omron Sysmac Studio PLC programming</li>
             <li>EPLAN electrical schemes</li>
             <li>Siemens HMI Simatic Design and Programming</li>
             <li>Siemens SCADA WinCC Design and Programming</li>
             <li>ABB Robot Studio</li>
-            <li>Industrial comunications: Profinet, Profibus and Modbus TCP</li>
+            <li>Industrial comunications: Profinet, Profibus and Modbus TCP&nbsp;<a href="https://www.youtube.com/watch?v=lbIzvWsiQHU&list=PLPmyIogJcNPpB7QTkb5TUPiPHZCKyzAdv">more about</a></li>
             <li>Arduino</li>
          </ul>
 <!-- ############################## -->
