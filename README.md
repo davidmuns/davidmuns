@@ -61,7 +61,10 @@
   <h1>Education</h1>
     <!--BOOTCAMP -->
     <h2>[2021 - 2022] Front and Backend Developer Bootcamp | +800 hours</h2>
-        <p>goto =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p>
+         <div align="left">
+            <a href="https://www.barcelonactiva.cat/es/itacademy" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/it_academy_logo.png" alt="It Academy-logo" title="It Academy-website" height="70"></a>
+         </div>
+<!--         <p>goto =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p> -->
         <h3>Frontend:</h3>
         <ul>
             <li>HTML5</li>
@@ -89,7 +92,10 @@
          </ul>
     <!--DEGREE-->    
     <h2>[2016-2018] Technical degree in Industrial Automation and Robotics | +2000 hours</h2>
-       <p>goto =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p>
+          <div align="left">
+            <a href="https://www.cimupc.org/es/" target="_blank"><img src="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1537218720/content-items/002/518/508/Comp_2-original.gif?1537218720" alt="cim-guft" title="cim-website" height="100"></a>
+         </div>
+<!--        <p>goto =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p> -->
         <ul>
             <li>Siemens Tia Portal</li>
             <li>Omron Sysmac Studio</li>
@@ -105,7 +111,7 @@
 <!-- ############################## -->
   <h1>Projects</h1>
     <!-- BLOGEX -->
-   <h2><ins>Blogex App</ins></h2>
+   <h2>Blogex App</h2>
     <div align="left">
         <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/blogex-logo.jpg" alt="header" title="blogex-website" height="240"></a>
     </div>
@@ -139,10 +145,10 @@
                     <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="70" height="70">&nbsp;
             </div>
-          </div><br>
+          </div>
 <!--         <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p> -->
 <!--STARWARS-->
-        <h2><ins>Starwars App</ins></h2>
+        <h2>Starwars App</h2>
           <div align="left">
             <a href="https://davidmuns-starwars.netlify.app/" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/starwars-armagedon.jpeg" alt="header" title="starwars-website" height="240"></a>
           </div>
@@ -168,20 +174,20 @@
                 <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="70" height="70">&nbsp;
           </div>
-        </div><br>
+        </div>
 <!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->
         <!--AUTOMATION -->
-        <h2><ins>Automation of Diosna industrial machine</ins></h2>
+        <h2>Automation of Diosna industrial machine</h2>
            <div align="left">
-        <a href="https://youtu.be/aN-tgeyTOM8" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/f2m_Diosna_linear_transport_system_automation.jpg" alt="diosna" title="youtube-channel" height="240"></a>
-    </div>
+            <a href="https://youtu.be/aN-tgeyTOM8" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/f2m_Diosna_linear_transport_system_automation.jpg" alt="diosna" title="youtube-channel" height="240"></a>
+           </div>
         <h3>Used technologies:</h3>
          <ul>
             <li>Siemens Tia Portal</li>
             <li>EPLAN electrical schemes</li>
             <li>Siemens HMI Simatic</li>
          </ul>
-        <p>goto =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube channel</a></p>
+<!--         <p>goto =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube channel</a></p> -->
     </div>
 </body>
 </html>
