@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <a href="https://blogex.netlify.app/home"><img src="https://res.cloudinary.com/dwfwp0eyg/image/upload/v1673785148/angular_spring-boot_blogex_vvyhiy.png" alt=""></a>
+        <a href="https://blogex.netlify.app/home"><img src="https://res.cloudinary.com/dwfwp0eyg/image/upload/v1673785148/angular_spring-boot_blogex_vvyhiy.png" alt="header" title="blogex-website" target="_blank"></a>
     </div>
 <!-- ############################## -->
 <!-- ABOUT -->
