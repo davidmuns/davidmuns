@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <a href="https://blogex.netlify.app/home"><img src="https://res.cloudinary.com/dwfwp0eyg/image/upload/v1673785148/angular_spring-boot_blogex_vvyhiy.png" alt="header" title="blogex-website" target="_blank"></a>
+        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://res.cloudinary.com/dwfwp0eyg/image/upload/v1673785148/angular_spring-boot_blogex_vvyhiy.png" alt="header" title="blogex-website"></a>
     </div>
 <!-- ############################## -->
 <!-- ABOUT -->
@@ -107,7 +107,7 @@
     <!-- BLOGEX -->
    <h2><ins>Blogex App</ins></h2>
     <div align="left">
-        <a href="https://blogex.netlify.app/home"><img src="https://github.com/davidmuns/assets/blob/main/blogex-logo.jpg" alt="header" title="blogex-website" target="_blank" height="240"></a>
+        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/blogex-logo.jpg" alt="header" title="blogex-website" height="240"></a>
     </div>
     <p>
         Blogex is a web application that allows you to create a personal blog in order to publish articles related to places around the world you have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.
@@ -144,7 +144,7 @@
 <!--STARWARS-->
         <h2><ins>Starwars App</ins></h2>
           <div align="left">
-            <a href="davidmuns-starwars.netlify.app"><img src="https://github.com/davidmuns/assets/blob/main/starwars-armagedon.jpeg" alt="header" title="starwars-website" target="_blank" height="240"></a>
+            <a href="https://davidmuns-starwars.netlify.app/" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/starwars-armagedon.jpeg" alt="header" title="starwars-website" height="240"></a>
           </div>
          <h3>Used technologies:</h3>
           <div align="left">
