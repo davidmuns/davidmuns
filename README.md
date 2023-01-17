@@ -93,17 +93,17 @@
     <!--DEGREE-->    
     <h2>[2016-2018] Technical degree in Industrial Automation and Robotics | +2000 hours</h2>
           <div align="left">
-            <a href="https://www.cimupc.org/en/formation/occupational-training-courses/industrial-automation-systems-project-development-cop-level-3/" target="_blank"><img src="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1537218720/content-items/002/518/508/Comp_2-original.gif?1537218720" alt="cim-guft" title="cim-website" height="100"></a>
+            <a href="https://www.cimupc.org/en/formation/occupational-training-courses/industrial-automation-systems-project-development-cop-level-3/" target="_blank"><img src="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1537218720/content-items/002/518/508/Comp_2-original.gif?1537218720" alt="cim-guft" title="cim-website" height="80"></a>
          </div>
 <!--        <p>goto =><a href="https://www.cimupc.org/es/">&nbsp;CIM UPC</a></p> -->
         <ul>
-            <li>Siemens Tia Portal PLC programming&nbsp;<a href="">more about</a></li>
+            <li>Siemens Tia Portal PLC programming&nbsp;=>&nbsp;<a href="https://www.youtube.com/watch?v=9RnR6uh2Rv8&list=PLPmyIogJcNPoyNEcvTb02lHTGyUocE843">more about</a></li>
             <li>Omron Sysmac Studio PLC programming</li>
             <li>EPLAN electrical schemes</li>
             <li>Siemens HMI Simatic Design and Programming</li>
-            <li>Siemens SCADA WinCC Design and Programming</li>
-            <li>ABB Robot Studio</li>
-            <li>Industrial comunications: Profinet, Profibus and Modbus TCP&nbsp;<a href="https://www.youtube.com/watch?v=lbIzvWsiQHU&list=PLPmyIogJcNPpB7QTkb5TUPiPHZCKyzAdv">more about</a></li>
+            <li>Siemens SCADA WinCC Design and Programming&nbsp;=>&nbsp;<a href="https://www.youtube.com/watch?v=JDKSDDx7i9o&list=PLPmyIogJcNPoX1Ntgs3I8sQRQBF03vygn">more about</a></li>
+            <li>ABB Robot Studio&nbsp;=>&nbsp;<a href="https://www.youtube.com/watch?v=aVXkFXYXoJI&t=349s">more about</a></li>
+            <li>Industrial comunications: Profinet, Profibus and Modbus TCP&nbsp;=>&nbsp;<a href="https://www.youtube.com/watch?v=lbIzvWsiQHU&list=PLPmyIogJcNPpB7QTkb5TUPiPHZCKyzAdv">more about</a></li>
             <li>Arduino</li>
          </ul>
 <!-- ############################## -->
@@ -113,7 +113,7 @@
     <!-- BLOGEX -->
    <h2>Blogex App</h2>
     <div align="left">
-        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/blogex-logo.jpg" alt="header" title="blogex-website" height="240"></a>
+        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/blogex-logo.jpg" alt="header" title="blogex-website" height="200"></a>
     </div>
     <p>
         Blogex is a web application that allows you to create a personal blog in order to publish articles related to places around the world you have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.
@@ -147,10 +147,10 @@
             </div>
           </div>
 <!--         <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p> -->
-<!--STARWARS-->
+        <!--STARWARS-->
         <h2>Starwars App</h2>
           <div align="left">
-            <a href="https://davidmuns-starwars.netlify.app/" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/starwars-armagedon.jpeg" alt="header" title="starwars-website" height="240"></a>
+            <a href="https://davidmuns-starwars.netlify.app/" target="_blank"><img src="https://j.gifs.com/KYpAln.gif" alt="header" title="starwars-website" height="240"></a>
           </div>
          <h3>Used technologies:</h3>
           <div align="left">
@@ -179,7 +179,7 @@
         <!--AUTOMATION -->
         <h2>Automation of Diosna industrial machine</h2>
            <div align="left">
-            <a href="https://youtu.be/aN-tgeyTOM8" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/f2m_Diosna_linear_transport_system_automation.jpg" alt="diosna" title="youtube-channel" height="240"></a>
+            <a href="https://youtu.be/aN-tgeyTOM8" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/f2m_Diosna_linear_transport_system_automation.jpg" alt="diosna" title="youtube-channel" height="200"></a>
            </div>
         <h3>Used technologies:</h3>
          <ul>
