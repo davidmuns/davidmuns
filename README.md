@@ -135,7 +135,8 @@
                     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;              
                     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript-logo" width="40" height="40">&nbsp;
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest-logo" width="40" height="40">
+                    <hr>
                     <ul>
                       <li>
                        <h4>Backend:</h4>
@@ -143,7 +144,7 @@
                      </ul>
                     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="70" height="70">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
             </div>
           </div>
 <!--         <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p> -->
@@ -164,7 +165,8 @@
                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css-logo" width="40" height="40">&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap-logo" width="40" height="40">&nbsp;
               <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;
-               <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
+               <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">
+               <hr>
              <ul>
               <li>
                 <h4>Backend:</h4>
@@ -172,7 +174,7 @@
              </ul>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
                 <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="70" height="70">&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
           </div>
         </div>
 <!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->
