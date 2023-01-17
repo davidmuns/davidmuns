@@ -62,7 +62,7 @@
     <!--BOOTCAMP -->
     <h2>[2021 - 2022] Front and Backend Developer Bootcamp | +800 hours</h2>
          <div align="left">
-            <a href="https://blogex.netlify.app/article/119" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/it_academy_logo.png" alt="It Academy-logo" title="It Academy-website" height="70"></a>
+            <a href="https://www.barcelonactiva.cat/es/itacademy" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/it_academy_logo.png" alt="It Academy-logo" title="It Academy-website" height="70"></a>
          </div>
 <!--         <p>goto =><a href="https://www.barcelonactiva.cat/es/itacademy">&nbsp;IT Academy</a></p> -->
         <h3>Frontend:</h3>
