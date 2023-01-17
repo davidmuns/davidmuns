@@ -140,7 +140,7 @@
                     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="70" height="70">&nbsp;
             </div>
           </div><br>
-        <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p>
+<!--         <p>goto =><a href="https://blogex.netlify.app/home">&nbsp;Blogex website</a></p> -->
 <!--STARWARS-->
         <h2><ins>Starwars App</ins></h2>
           <div align="left">
@@ -169,7 +169,7 @@
                 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="70" height="70">&nbsp;
           </div>
         </div><br>
-        <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p>
+<!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->
         <!--AUTOMATION -->
         <h2><ins>Automation of Industrial Machinery</ins></h2>
         <h3>Used technologies:</h3>
