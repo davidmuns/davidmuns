@@ -119,7 +119,7 @@
         Blogex is a web application that allows you to create a personal blog in order to publish articles related to places around the world you have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.
     </p>
     <p>
-        The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD               operations, Create, Read, Update and Delete articles.
+        The Frontend is developed in TypeScript and Angular and the Backend in Java and Spring Boot with MySQL as the database allows signup users to employ CRUD               operations, Create, Read, Update and Delete.
     </p>
         <h3>Used technologies:</h3>
             <div align="left">
