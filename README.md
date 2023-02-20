@@ -13,15 +13,10 @@
 <!-- ABOUT -->
 <!-- ############################## -->
     <h1>About</h1>
-    <h3>My goal</h3>
         <p>
-            My experience as an industrial automation technician and PLC programmer 
-            have taught me to make decisions in very aggressive environments and under a lot of pressure. 
-            I also know the business world and customer relationships as well as the pressure to 
-            achieve sales goals and the satisfaction of achieving them. I like challenges and 
-            changes and I am used to them. Currently, I am looking to be part of a multidisciplinary 
-            team of programmers, both server and client-side, where I can contribute with my knowledge and, 
-            at the same time, continue to grow and learn with my colleagues.
+           Passionate about programming and with experience in the industrial sector, I have developed skills in programming PLC-based systems, as well as having knowledge in both frontend and backend technologies, such as Java, Spring Boot, Typescript and Angular. Although I have no paid experience in the software development field, my passion for technology has led me to work on personal projects and collaborate on open source projects. Currently, I am looking for opportunities to apply my skills and knowledge in challenging projects as a developer. If you are interested in my profile please, do not hesitate to contact me.
+
+Translated with www.DeepL.com/Translator (free version)
         </p>
     <h3>How can I help</h3>
         <p>
