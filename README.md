@@ -18,7 +18,7 @@
         </p>
     <h3>How can I help</h3>
         <p>
-            By putting my professional experience, skills and knowledge at the service of the company in order to improve the relationship with its customers, its competitiveness and, ultimately, its bottom line. Whoever decides to hire me will have the certainty that they can count on someone who has been "trained" with the exact skills necessary to work as a team, who is passionate about what he does and who is committed to the company's goals.
+        Putting my professional experience, my skills and my knowledge at the service of the company in order to improve the relationship with its customers, its competitiveness and, ultimately, its bottom line. Whoever decides to hire me will have the certainty that they can count on someone who has been "trained" with the exact skills needed to work in a team, who is passionate about what they do and who is committed to the company's objectives.
         </p>
     <h3>My softskills</h3>
        <ul>
