@@ -130,7 +130,7 @@
                     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript-logo" width="40" height="40">&nbsp;
                     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest-logo" width="40" height="40">
-                    <hr>
+<!--                     <hr> -->
                     <ul>
                       <li>
                        <h4>Backend:</h4>
@@ -165,7 +165,7 @@
                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap-logo" width="40" height="40">&nbsp;
               <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;
                <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">
-               <hr>
+<!--                <hr> -->
              <ul>
               <li>
                 <h4>Backend:</h4>
