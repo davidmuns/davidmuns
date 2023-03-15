@@ -180,8 +180,7 @@
                 <img src="https://github.com/davidmuns/assets/blob/main/mockito-mix.png" title="Mockito" alt="mockito-logo" width="60" height="40">&nbsp;
           </div>
         </div>
-<!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->
-              
+<!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->             
     <!-- BUSINESS ASSISTANT BARCELONA -->
    <h2>Business Assistant Barcelona</h2>
     <div align="left">
