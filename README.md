@@ -182,7 +182,7 @@
         </div>
 <!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->             
     <!-- BUSINESS ASSISTANT BARCELONA -->
-   <h2>Business Assistant Barcelona</h2>
+   <h2>Business Assistant Barcelona - Open Source Project</h2>
     <div align="left">
         <a href="http://businessassistantbcn.eurecatacademy.org/" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/BusinessAssistantBcn.jpg" alt="header" title="BusinessAssistantBcn" height="200"></a>
     </div>&nbsp;
