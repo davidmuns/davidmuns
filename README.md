@@ -181,6 +181,53 @@
           </div>
         </div>
 <!--         <p>goto =><a href="https://davidmuns-starwars.netlify.app/">&nbsp;starwars website</a></p> -->
+              
+    <!-- BUSINESS ASSISTANT BARCELONA -->
+   <h2>Business Assistant Barcelona</h2>
+    <div align="left">
+        <a href="http://businessassistantbcn.eurecatacademy.org/" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/BusinessAssistantBcn.jpg" alt="header" title="BusinessAssistantBcn" height="200"></a>
+    </div>&nbsp;
+    <p>
+       BusinessAssistantBarcelona is a business assistant wizard to entrepreneurs. It aims to facilitate the decision-making of small and medium-sized entrepreneurs and to accompany them in carrying out a personalized market research in the city of Barcelona.
+    </p>
+    <p>
+        The wizard also connects these users with public sources of data that support their idea, such as grants, requirements, available funds and any other information that could be useful for having a broad perspective and for assessing the viability of their business. The collected information can be stored by users in a personal area or downloaded in different formats for further evaluation.
+    </p>
+    <p>
+        At a later stage, customized professional advice will be needed to develop a sustainability plan as an entrepreneur (this service is also available from the page).
+    
+              </p>
+        <h3>Used technologies:</h3>
+            <div align="left">
+                <div>
+                     <ul>
+                      <li>
+                       <h4>Frontend:</h4>
+                      </li>
+                     </ul>
+                    <img src="https://github.com/davidmuns/assets/blob/main/vec-removebg-preview.png" title="VE" alt="VE-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/davidmuns/assets/blob/main/unnamed-removebg-preview.png" title="angular-material" alt="angular-material-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular-logo" width="40" height="40">&nbsp;              
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest-logo" width="40" height="40">
+<!--                     <hr> -->
+                    <ul>
+                      <li>
+                       <h4>Backend:</h4>
+                      </li>
+                     </ul>
+                    <img src="https://github.com/davidmuns/assets/blob/main/IntelliJ-icon.png" title="intellij" alt="intellij-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/davidmuns/assets/blob/main/descarga-removebg-preview.png" title="springboot" alt="springboot-logo" width="70" height="40">&nbsp;
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/davidmuns/assets/blob/main/postan.png" title="postman" alt="postman-logo" width="40" height="40">&nbsp;
+                     <img src="https://github.com/davidmuns/assets/blob/main/jUnit-logo-removebg-preview.png" title="JUnit" alt="JUnit-logo" width="40" height="40">&nbsp;
+                    <img src="https://github.com/davidmuns/assets/blob/main/mockito-mix.png" title="Mockito" alt="mockito-logo" width="60" height="40">&nbsp;
+            </div>
+          </div>    
         <!--AUTOMATION -->
         <h2>Automation of Diosna industrial machine</h2>
            <div align="left">
