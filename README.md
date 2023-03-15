@@ -195,8 +195,7 @@
     </p>
     <p>
         At a later stage, customized professional advice will be needed to develop a sustainability plan as an entrepreneur (this service is also available from the page).
-    
-              </p>
+    </p>
         <h3>Used technologies:</h3>
             <div align="left">
                 <div>
