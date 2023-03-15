@@ -240,7 +240,7 @@
 <!--         <p>goto =><a href="https://youtu.be/aN-tgeyTOM8">&nbsp;See project in my youtube channel</a></p> -->
     </div>
         <div>
-            <h2>Thanks for visiting :)</h2>
+            <h3>Thanks for visiting!</h3>
         </div>
 </body>
 </html>
