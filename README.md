@@ -14,7 +14,7 @@
 <!-- ############################## -->
     <h1>About</h1>
         <p>
-           Passionate about programming and with experience in the industrial sector, I have developed skills in programming systems based on PLC, HMI, SCADA, and Industrial Robotics, as well as knowledge in frontend and backend technologies such as Java, Spring Boot, Typescript, and Angular. My short but intense experience in software development, as well as my passion for technology, have allowed me to work on personal full-stack projects and collaborate on Open Source projects. Currently, I am looking for opportunities to apply my skills and knowledge to challenging projects as a developer. If you are interested in my profile, do not hesitate to contact me.
+           Passionate about programming and with experience in the industrial sector, I have developed skills in programming systems based on PLC, HMI, SCADA and Industrial Robotics as well as knowledge in frontend and backend technologies such as Java, Spring Boot, Typescript and Angular. My short but intense career in software development, as well as my passion for technology, have allowed me to work on Open Source projects and to design and create my own. Currently, I am looking for opportunities to apply my skills and knowledge to challenging projects as a developer. If you are interested in my profile, feel free to contact me.
         </p>
     <h3>How can I help</h3>
         <p>
