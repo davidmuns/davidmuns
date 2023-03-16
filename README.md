@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/header.jpg" alt="header" title="blogex-website"></a>
+        <a href="https://davidmuns.netlify.app/" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/porfolio.JPG" alt="header" title="portfolio-davidmuns"></a>
     </div>
 <!-- ############################## -->
 <!-- ABOUT -->
