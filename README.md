@@ -44,8 +44,7 @@
     <h1>Experience</h1>
     <div align="left">
         <div>
-          <a href="https://linkedin.com/in/davidgmuns">&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"       title="linkedin" alt="linkedin-logo" width="40" height="40"</a>&nbsp;
-          <a href="https://drive.google.com/file/d/1qJLjwIU9ZtbWTlKPq7iz_NViXAZM7tfb/view?usp=sharing">&nbsp;Download cv</a>    
+          <a href="https://linkedin.com/in/davidgmuns">&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin-logo" width="40" height="40"></a>   
          </div>
      </div>
 <!-- ############################## -->
