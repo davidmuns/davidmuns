@@ -106,7 +106,7 @@
     <!-- BLOGEX -->
    <h2>Blogex App</h2>
     <div align="left">
-        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/blogex-logo.jpg" alt="header" title="blogex-website" height="200"></a>
+        <a href="https://blogex.netlify.app/home" target="_blank"><img src="https://github.com/davidmuns/assets/blob/main/new-blogex-logo.png" alt="header" title="blogex-website" height="200"></a>
     </div>&nbsp;
     <p>
         Blogex is a web application that allows you to create a personal blog in order to publish articles related to places around the world you have visited and want to share. This App utilizes Leaflet that is the leading open-source JavaScript library for mobile-friendly interactive maps.
